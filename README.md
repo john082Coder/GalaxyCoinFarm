@@ -1,2 +1,4 @@
-# GalaxyCoinFarm
-Smart contracts for GalaxyCoin Farm
+# GalaxyCoin Contracts 🍉
+
+This repository contains the GalaxyCoin farm solidity contracts.
+
